@@ -1,0 +1,26 @@
+{
+  "name": "taller02-aca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kemc17/Taller02-ACA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kemc17/Taller02-ACA/issues"
+  },
+  "homepage": "https://github.com/Kemc17/Taller02-ACA#readme",
+  "type": "module",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "husky": "^9.1.7"
+  }
+}
